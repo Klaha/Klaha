@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jonathan, a JS FullStack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on LatamAirlines ✈  
+- 🔭 I’m currently working on Accelerate Learning ✈  
   
 
 - 🌱 I’m currently learning everything I can about Web3, Solidity and Ethereum.  
